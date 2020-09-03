@@ -1,0 +1,2 @@
+include ':app', ':xtooltip'
+rootProject.name = "AndroidTooltip"
